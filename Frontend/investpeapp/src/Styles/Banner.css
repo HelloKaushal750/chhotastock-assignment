@@ -1,0 +1,21 @@
+.banner{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color: white;
+    background-color: #171E27;
+    align-items: center;
+}
+.banner>h1{
+    font-size: 46px;
+    width: 40%;
+}
+.banner>h3{
+    font-size: 28px;
+    font-weight: 100;
+    margin-top: -10px;
+}
+.home_section{
+    width: 60%;
+    margin-top: 10px;
+}

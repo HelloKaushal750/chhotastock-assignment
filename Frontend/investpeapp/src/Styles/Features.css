@@ -1,0 +1,55 @@
+.features {
+  background-image: url("../../public/Images/Frame\ 3.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  margin-top: 130px;
+  display: grid;
+  grid-template-columns: 45% 50%;
+}
+.features_left {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  text-align: left;
+  margin-left: 180px;
+  margin-top: 40px;
+  margin-bottom: 200px;
+}
+.features_left h3 {
+  color: #28b570;
+  font-weight: 400;
+  font-size: 18px;
+}
+.features_left h1 {
+  margin-top: 8px;
+  font-weight: 700;
+}
+.features_left>p {
+  font-size: 23px;
+  color: #777777;
+  margin-top: -0px;
+}
+.features_left>div{
+    display: flex;
+    gap: 50px;
+    margin-top: 60px;
+    align-items: center;
+}
+.get_app {
+  background-image: linear-gradient(to right, #fec826, #f3a61d);
+  color: #171e27;
+  border-radius: 35px;
+  border: none;
+  padding: 10px 15px;
+  font-size: 20px;
+  font-weight: 500;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  height: 45px;
+}
+.features_right{
+    margin-top: -5px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+
