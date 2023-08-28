@@ -1,0 +1,42 @@
+.essential{
+    background-color: #171E27;
+    border-radius: 80px;
+    height: 70vh;
+    width: 86%;
+    margin: auto;
+    color: white;
+    display: grid;
+    grid-template-columns: 65% 30%;
+}
+.essential>.essential_1{
+    text-align: left;
+    padding-top: 40px;
+    margin-left: 80px;
+    font-size: 22px;
+}
+.essential_1>h2{
+    width: 80%;
+    font-weight: 400;
+    color: #CECECE;
+    margin-top: 60px;
+}
+.essential_1>div>h2{
+    width: 70%;
+    font-weight: 400;
+    color: #CECECE;
+    margin-top: 20px;
+    font-size: 23px;
+}
+.essential_1>div{
+    display: flex;
+    gap:10px;
+    align-items: center;
+}
+.essential_2{
+    margin-top: 40px;
+    margin-right: -50px;
+}
+.essential_btn{
+    margin-top: 30px;
+    display: flex;
+}

@@ -1,0 +1,27 @@
+.stock {
+  width: 82%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: left;
+  margin-bottom: 50px;
+}
+.stock_detail {
+  padding: 30px;
+}
+.stock_detail p {
+  font-size: 24px;
+  color: #777777;
+  margin-top: 40px;
+}
+.image_stock {
+  border-top: 1px solid white;
+  border-radius: 8px;
+}
+.each_data p{
+    font-size: 12.5px;
+    color: #777777;
+    line-height: 17px;
+}
+.each_data:hover{
+    border: 1px solid black;
+}
