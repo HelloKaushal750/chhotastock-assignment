@@ -3,6 +3,7 @@ import "../../Styles/Reviews.css";
 function Reviews() {
   return (
     <div className="reviews">
+      <hr style={{ color: "grey", width: "100%", marginTop: "50px" }} />
       <div className="review_1">
         <div style={{ marginTop: "30px" }}>
           <h1 style={{ fontSize: "40px", textAlign: "left" }}>
@@ -101,7 +102,7 @@ function Reviews() {
           />
         </div>
 
-        <div style={{marginTop:"-20px"}}>
+        <div style={{ marginTop: "-20px" }}>
           <img
             src="Images/Ellipse 2084.png"
             alt=""
@@ -220,7 +221,6 @@ function Reviews() {
             />
           </div>
         </div>
-        
       </div>
     </div>
   );

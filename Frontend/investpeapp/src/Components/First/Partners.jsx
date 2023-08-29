@@ -80,7 +80,6 @@ function Partners() {
           </div>
         </div>
       </div>
-      <hr style={{ color: "grey", width:'78%',marginTop:"80px" }} />
     </div>
   );
 }

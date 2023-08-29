@@ -17,6 +17,11 @@
   height: 200px;
   color: #979797;
 }
+.features2_right > div > div:hover {
+  scale: 1.1;
+  background-color: #171e27;
+  color: white;
+}
 .features2_right > div > div h1 {
   font-size: 20px;
 }

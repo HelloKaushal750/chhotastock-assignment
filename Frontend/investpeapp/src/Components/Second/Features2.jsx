@@ -50,13 +50,13 @@ function Features2() {
           </div>
         </div>
         <div style={{ display: "flex", gap: "40px", flexDirection: "column" }}>
-          <div style={{ scale: "1.1", backgroundColor: "#171E27" }}>
+          <div>
             <h1>Tracking</h1>
             <img
               src="Images/activity-svgrepo-com 1.png"
               alt=""
-              height={"100px"}
-              width={"100px"}
+              height={"80px"}
+              width={"80px"}
             />
             <p style={{ marginTop: "-10px" }}>
               Track all your users’ financial transactions
