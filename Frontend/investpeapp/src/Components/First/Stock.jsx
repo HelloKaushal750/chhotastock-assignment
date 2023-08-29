@@ -1,4 +1,4 @@
-import "../Styles/Stock.css";
+import "../../Styles/Stock.css";
 
 const data = [
   {

@@ -1,4 +1,4 @@
-import "../Styles/Essential.css";
+import "../../Styles/Essential.css";
 
 function Essential() {
   return (

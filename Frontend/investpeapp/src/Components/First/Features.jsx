@@ -1,4 +1,4 @@
-import "../Styles/Features.css";
+import "../../Styles/Features.css";
 function Features() {
   return (
     <div className="features">

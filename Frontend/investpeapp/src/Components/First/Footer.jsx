@@ -1,4 +1,4 @@
-import "../Styles/Footer.css";
+import "../../Styles/Footer.css";
 
 function Footer() {
   return (
@@ -34,18 +34,18 @@ function Footer() {
           <p style={{ marginTop: "-10px" }}>Blog</p>
         </div>
 
-        <div>
+        <div style={{marginLeft:'-70px'}}>
           <h1 style={{ marginTop: "20px" }}>Download the App Now !</h1>
           <img
             src="Images/Group.png"
             alt=""
             width={"150px"}
             height={"50px"}
-            style={{ marginTop: "-12spx" }}
+            style={{ marginTop: "-12px" }}
           />
         </div>
       </div>
-      <div style={{ marginTop: "20px" }}>
+      <div style={{ marginTop: "0px" }}>
         <h1 style={{ fontSize: "15px" }}>Find Us On</h1>
         <div className="logo_img">
           <img

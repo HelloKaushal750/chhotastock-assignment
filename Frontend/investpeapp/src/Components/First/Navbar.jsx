@@ -1,6 +1,8 @@
-import "../Styles/Navbar.css";
+import "../../Styles/Navbar.css";
+import { useNavigate } from "react-router-dom";
 
 function Navbar() {
+  const navigate = useNavigate();
   return (
     <div className="navbar">
       <div className="logo">
@@ -15,7 +17,7 @@ function Navbar() {
         <input type="text" placeholder="Search stocks, ETFs, indices" />
       </div>
       <div>
-        <button className="login_btn">
+        <button className="login_btn" onClick={()=>{navigate('/gateway')}}>
           <div
             style={{
               display: "flex",

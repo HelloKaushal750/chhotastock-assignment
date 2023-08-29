@@ -1,4 +1,4 @@
-import '../Styles/Banner.css'
+import '../../Styles/Banner.css'
 
 
 function Banner() {
@@ -10,7 +10,7 @@ function Banner() {
         Trading tools
       </h3>
       <div className='home_section'>
-        <img src="Images/home.png" alt="" width={'100%'} />
+        <img src="Images/home.png" alt="" width={'100%'} height={'620px'} />
       </div>
     </div>
   );

@@ -1,4 +1,4 @@
-import "../Styles/Reviews.css";
+import "../../Styles/Reviews.css";
 
 function Reviews() {
   return (

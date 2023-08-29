@@ -1,4 +1,4 @@
-import "../Styles/Partners.css";
+import "../../Styles/Partners.css";
 
 function Partners() {
   return (
