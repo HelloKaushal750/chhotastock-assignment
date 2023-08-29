@@ -1,0 +1,32 @@
+.footer {
+  background-color: #171e27;
+  padding: 40px 100px;
+  display: flex;
+  text-align: left;
+  color: white;
+  flex-direction: column;
+}
+.footer_detail {
+  margin-top: 50px;
+}
+.footer_detail > div h1 {
+  font-size: 15px;
+}
+.footer_detail > div p {
+  font-size: 15px;
+  color: #d9d9d9;
+}
+.logo_img {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+.footer_description {
+  font-size: 12px;
+  color: #d9d9d9;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.footer_description > p {
+  margin-bottom: 15px;
+}

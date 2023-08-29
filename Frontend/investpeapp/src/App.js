@@ -7,6 +7,7 @@ import Partners from "./Components/Partners";
 import Reviews from "./Components/Reviews";
 import Slider1 from "./Components/Slider1";
 import Stock from "./Components/Stock";
+import Footer from "./Components/Footer";
 
 function App() {
   return <div className="App">
@@ -18,6 +19,7 @@ function App() {
     <Stock />
     <Partners />
     <Reviews />
+    <Footer />
   </div>;
 }
 

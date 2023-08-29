@@ -5,6 +5,7 @@
     width: 75%;
     margin: auto;
     margin-top: 50px;
+    margin-bottom: 150px;
 }
 .review_1{
     display: grid;
@@ -34,7 +35,8 @@
 .reviews_2{
     display: grid;
     grid-template-columns: repeat(5,1fr);
-    gap: 20px;
+    gap: 25px;
+    margin-top: 80px;
 }
 .reviews_2>div{
     background-color: #F3F3F3;
