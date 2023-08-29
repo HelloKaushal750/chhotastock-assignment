@@ -5,6 +5,8 @@ import Navbar2 from "./Navbar2";
 import Slider from "./Slider";
 import Solution from "./Solution";
 import Partners from "../First/Partners";
+import Info from "./Info";
+import Footer from '../First/Footer'
 
 function Second() {
   return (
@@ -18,6 +20,8 @@ function Second() {
       <div style={{marginTop:"50px"}}>
         <Partners />
       </div>
+      <Info />
+      <Footer />
     </>
   );
 }
