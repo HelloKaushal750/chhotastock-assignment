@@ -39,7 +39,7 @@ function Solution() {
                 <h1 style={{ color: "#7C59CF" }}>
                   We value your precious time.
                 </h1>
-                <h1 style={{ fontWeight: "100", marginTop: "50px" }}>
+                <h1 style={{ fontWeight: "400", marginTop: "50px" }}>
                   No regulatory licenses required as we have everything for you
                   to get started.
                 </h1>

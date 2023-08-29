@@ -58,7 +58,7 @@ function Features2() {
               height={"80px"}
               width={"80px"}
             />
-            <p style={{ marginTop: "-10px" }}>
+            <p style={{ marginTop: "10px" }}>
               Track all your users’ financial transactions
             </p>
           </div>

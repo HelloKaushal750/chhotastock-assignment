@@ -3,7 +3,7 @@
   margin: auto;
   /* border: 1px solid black; */
   display: grid;
-  grid-template-columns: 32% 68%;
+  grid-template-columns: 34% 66%;
   text-align: left;
   font-size: 14px;
   color: #777777;
@@ -22,7 +22,7 @@
   gap: 30px;
 }
 .partners h1 {
-  font-weight: 100;
+  font-weight: 400;
 }
 .logo_image_2{
     display: flex;

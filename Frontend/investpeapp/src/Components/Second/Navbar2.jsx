@@ -31,7 +31,7 @@ function Navbar2() {
                   style={{
                     color: "#28B570",
                     fontSize: "20px",
-                    fontWeight: "100",
+                    fontWeight: "400",
                   }}
                 >
                   INVESTMENT
@@ -95,7 +95,7 @@ function Navbar2() {
                   style={{
                     color: "#28B570",
                     fontSize: "20px",
-                    fontWeight: "100",
+                    fontWeight: "400",
                   }}
                 >
                   DATA

@@ -17,7 +17,7 @@ function Navbar() {
         <input type="text" placeholder="Search stocks, ETFs, indices" />
       </div>
       <div>
-        <button className="login_btn" onClick={()=>{navigate('/gateway')}}>
+        <button className="login_btn" style={{cursor:'pointer'}} onClick={()=>{navigate('/gateway')}}>
           <div
             style={{
               display: "flex",
