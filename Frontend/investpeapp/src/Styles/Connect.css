@@ -1,0 +1,11 @@
+.connect{
+    background-color: #171E27;
+    position: relative;
+    border-radius: 80px;
+    height: 470px;
+    width: 83%;
+    margin: -45px auto;
+    display: flex;
+    justify-content: end;
+    padding: 5px;
+}

@@ -1,0 +1,28 @@
+.features2 {
+  width: 100%;
+  margin-top: 90px;
+  display: grid;
+  grid-template-columns: 45% 35%;
+  gap: 120px;
+}
+.features2_right {
+  display: grid;
+  grid-template-columns: 40% 40%;
+  gap: 40px;
+  padding: 60px 0;
+}
+.features2_right > div > div {
+  background-color: #f3f3f3;
+  border-radius: 30px;
+  height: 200px;
+  color: #979797;
+}
+.features2_right > div > div h1 {
+  font-size: 20px;
+}
+.features2_right > div > div p {
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+  font-size: 16px;
+}
