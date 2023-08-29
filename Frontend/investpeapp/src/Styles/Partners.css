@@ -1,0 +1,39 @@
+.partners {
+  width: 75%;
+  margin: auto;
+  /* border: 1px solid black; */
+  display: grid;
+  grid-template-columns: 32% 68%;
+  text-align: left;
+  font-size: 14px;
+  color: #777777;
+  gap: 60px;
+}
+.logo_image_1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+}
+.logo_image_1 > div {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  gap: 30px;
+}
+.partners h1 {
+  font-weight: 100;
+}
+.logo_image_2{
+    display: flex;
+    gap: 60px;
+}
+.logo_image_2 > div {
+  width: 210px;
+  background-color: #B1B1B1;
+  height: 120px;
+  border-radius: 35px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

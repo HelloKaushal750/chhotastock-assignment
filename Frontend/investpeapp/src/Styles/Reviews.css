@@ -1,0 +1,48 @@
+.reviews{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    width: 75%;
+    margin: auto;
+    margin-top: 50px;
+}
+.review_1{
+    display: grid;
+    grid-template-columns: 35% 50%;
+    gap: 150px;
+}
+.review_1>div{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+.review_1>div>div{
+    width: 50%;
+    height: 120px;
+    border-radius: 35px;
+    background-color: #F3F3F3;
+    text-align: left;
+    padding-left: 30px;
+}
+.review_1>div>div h1{
+    font-size: 35px;
+}
+.review_1>div>div p{
+    font-size: 22px;
+    margin-top: -15px;
+}
+.reviews_2{
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 20px;
+}
+.reviews_2>div{
+    background-color: #F3F3F3;
+    border-radius: 20px;
+    padding: 15px;
+    gap: 0px;
+    height: 220px;
+}
+.reviews_2>div p{
+    font-size: 13px;
+}
