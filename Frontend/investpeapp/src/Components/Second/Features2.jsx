@@ -8,7 +8,7 @@ function Features2() {
         <h1 style={{ width: "90%" }}>
           Launch the most Engaging Invest-Tech Solutions
         </h1>
-        <p style={{ width: "96%", lineHeight: "30px" }}>
+        <p style={{ width: "96%", lineHeight: "35px" }}>
           We offer a suite of B2B Invest-tech solutions, that are cost-effective
           way to offer an engaging investment experience to your customers, with
           a faster time to market

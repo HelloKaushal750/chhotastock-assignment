@@ -3,7 +3,7 @@ import "../../Styles/Solution.css";
 function Solution() {
   return (
     <div className="solution">
-      <div>
+      <div style={{marginLeft:"10px"}}>
         <p style={{ color: "#28B570", fontSize: "20px" }}>SOLUTION</p>
         <h1 style={{ width: "35%" }}>
           Stay ahead with our Wealth-tech as a service
@@ -22,7 +22,7 @@ function Solution() {
               <img src="Images/image 153.svg" alt="" width={"90px"} />
               <p style={{ color: "#7C59CF" }}>INVESTPE</p>
               <h1
-                style={{ color: "#7C59CF", fontSize: "26px", width: "180px" }}
+                style={{ color: "#7C59CF", fontSize: "25px", width: "180px", lineHeight:"35px" }}
               >
                 Why does it make sense to start with us?
               </h1>
@@ -31,15 +31,15 @@ function Solution() {
               style={{
                 display: "flex",
                 justifyContent: "space-between",
-                padding: "30px 30px 0 30px",
+                padding: "35px 25px 0 25px",
                 backgroundColor: "#FAFCFD",
               }}
             >
-              <div style={{ fontSize: "12px", width: "50%" }}>
+              <div style={{ fontSize: "12px", width: "55%" }}>
                 <h1 style={{ color: "#7C59CF" }}>
                   We value your precious time.
                 </h1>
-                <h1 style={{ fontWeight: "400", marginTop: "50px" }}>
+                <h1 style={{ fontWeight: "400", marginTop: "30px" }}>
                   No regulatory licenses required as we have everything for you
                   to get started.
                 </h1>
@@ -47,9 +47,9 @@ function Solution() {
               <img
                 src="Images/Dashboard.png"
                 alt=""
-                width={"210px"}
-                height={"230px"}
-                style={{ marginTop: "68px" }}
+                width={"200px"}
+                height={"220px"}
+                style={{ marginTop: "74px" }}
               />
             </div>
           </div>
@@ -61,13 +61,13 @@ function Solution() {
             }}
           >
             <div>
-              <p style={{ color: "#7C59CF", marginTop: "-10px" }}>
+              <p style={{ color: "#7C59CF", marginTop: "-5px" }}>
                 MUTUAL FUNDS
               </p>
               <h1
                 style={{
                   color: "#7C59CF",
-                  fontSize: "26px",
+                  fontSize: "25px",
                   marginTop: "-5px",
                 }}
               >

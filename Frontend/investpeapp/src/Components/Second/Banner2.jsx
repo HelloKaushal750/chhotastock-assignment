@@ -6,9 +6,10 @@ function Banner2() {
       <div className="top_banner">
         <div>
           <h1>
-            INVESTMENT STACK <span style={{ color: "black" }}>for India</span>
+            INVESTMENT STACK
           </h1>
-          <h3>
+          <h1 style={{ color: "black",fontSize:"42px",fontWeight:'600',marginTop:"-20px" }}>for India</h1>
+          <h3 style={{lineHeight:"40px"}}>
             Elevate Your Investment Strategy with Our{" "}
             <span style={{ color: "#28B570" }}>Comprehensive APIs</span>
           </h3>

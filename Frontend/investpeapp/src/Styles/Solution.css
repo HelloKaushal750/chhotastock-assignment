@@ -1,11 +1,11 @@
 .solution{
     text-align: left;
-    width: 80%;
+    width: 78%;
     margin: auto;
 }
 .solution_card{
     display: grid;
-    grid-template-columns: 80% 23%;
+    grid-template-columns: 77% 25%;
     gap: 30px;
     margin-top: 40px;
 }

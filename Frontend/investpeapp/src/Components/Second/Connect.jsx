@@ -5,8 +5,7 @@ function Connect() {
       <img
         src="Images/draws-pattern-svgrepo-com 2 (1).png"
         alt=""
-        width={"40%"}
-        style={{ borderRadius: "15% 0 0 15%" }}
+        width={"38%"}
       />
       <img
         src="Images/draws-pattern-svgrepo-com 1.png"
@@ -23,7 +22,7 @@ function Connect() {
           marginTop: "70px",
         }}
       >
-        <h1 style={{ fontSize: "45px", width: "60%" }}>
+        <h1 style={{ fontSize: "45px", width: "60%", marginTop:'10px' }}>
           Connect your platform finances now with InvestPe Gateway
         </h1>
         <p style={{ fontSize: "24px", width: "60%", color: "#CECECE" }}>

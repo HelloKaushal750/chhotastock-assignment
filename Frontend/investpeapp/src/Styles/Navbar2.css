@@ -30,7 +30,7 @@
 .prod_about {
   font-size: 24px;
   gap: 70px;
-  margin-right: 100px;
+  margin-right: 80px;
 }
 .dropdown button {
   padding: 30px 10px;
@@ -52,18 +52,17 @@
   position: absolute;
   background-color: white;
   width: 77%;
-  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px,
-    rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
   z-index: 1;
-  margin-left: -810px;
-  margin-top: 533px;
-  height: 440px;
+  margin-left: -840px;
+  margin-top: 553px;
+  height: 460px;
   color: black;
 }
 .contain {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  padding: 30px 70px;
+  grid-template-columns: 58% 42%;
+  padding: 25px 80px;
   gap: 50px;
   text-align: left;
 }
@@ -80,8 +79,8 @@
   cursor: pointer;
 }
 .filed1 h1 {
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 22px;
+  font-weight: 500;
 }
 .filed1 p {
   font-size: 15px;
@@ -98,8 +97,8 @@
   margin-top: 10px;
 }
 .filed2 h1 {
-  font-size: 20px;
-  font-weight: 400;
+  font-size: 22px;
+  font-weight: 500;
 }
 .filed2 p {
   font-size: 15px;

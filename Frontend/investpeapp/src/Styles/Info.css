@@ -27,10 +27,11 @@
     font-size: 26px;
     margin-top: -15px;
     margin-bottom: 35px;
+    padding-left: 30px;
 }
 .info_details input::placeholder{
     color: #8B8B8B;
-    font-size: 26px;
+    font-size: 30px;
 }
 .info_list{
     display: grid;

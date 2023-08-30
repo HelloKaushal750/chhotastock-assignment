@@ -3,7 +3,7 @@ import "../../Styles/Navbar2.css";
 function Navbar2() {
   return (
     <div className="navbar2">
-      <div>
+      <div style={{marginLeft:"10px"}}>
         <div className="logo2">
           <img src="Images/logo1.png" alt="" width={"80%"} />
         </div>

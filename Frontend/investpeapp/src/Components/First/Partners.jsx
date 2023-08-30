@@ -19,16 +19,16 @@ function Partners() {
             <img
               src="Images/image 13.png"
               alt=""
-              width={"280px"}
+              width={"270px"}
               height={"90px"}
-              style={{ marginTop: "50px" }}
+              style={{ marginTop: "40px" }}
             />
             <img
               src="Images/image 14.png"
               alt=""
-              width={"150px"}
+              width={"160px"}
               height={"40px"}
-              style={{ marginTop: "60px" }}
+              style={{ marginTop: "20px" }}
             />
           </div>
           <div style={{ marginLeft: "15px" }}>
@@ -42,14 +42,14 @@ function Partners() {
             <img
               src="Images/image 16.png"
               alt=""
-              width={"160px"}
+              width={"150px"}
               height={"145px"}
               style={{ marginTop: "10px" }}
             />
             <img
               src="Images/image 17.png"
               alt=""
-              width={"220px"}
+              width={"200px"}
               height={"25px"}
               style={{ marginTop: "10px" }}
             />
